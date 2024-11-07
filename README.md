@@ -29,7 +29,7 @@ git config --global core.autocrlf input
 
 # Referencing the API Documentation
 
-For detailed information on API endpoints, payload structures, and response formats, please refer to the API documentation located at fetch-rewards-api-challenge/docs/api.md.
+For detailed information on API endpoints, payload structures, and response formats, please refer to the API documentation located at [fetch-rewards-api-challenge/docs/api.md.](https://github.com/mohitreddy03/fetch-rewards-api-challenge/blob/main/docs/api.md)
 
 # Tests
 
