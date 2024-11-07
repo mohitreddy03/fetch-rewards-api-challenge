@@ -12,7 +12,7 @@ Follow these steps to run the server locally:
 
 1. **Run starter.sh**:
    The script makes the docker image and starts the server at port 8080 on your local machine
-   Note for Windows Users:
+   _Note for Windows Users_:
    If you encounter a "command not found" error when running starter.sh, ensure the script’s line endings are set to LF instead of the default CRLF. You can change this in a text editor or with git by setting core.autocrlf to input before cloning the repository:
 
 ```
